@@ -1,5 +1,5 @@
 import React, { useRef } from "react";
-import { Canvas, useFrame } from "react-three-fiber";
+import { useFrame } from "react-three-fiber";
 import * as THREE from 'three';
 
 export default function Box() {
